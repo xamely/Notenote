@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b68c23b5-822c-40a6-bd51-7f2a43e7a91e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/controllers/notes_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/notes_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/registrations/new.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/notes/_form.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/notes/_form.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/notes/edit.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/notes/edit.html.haml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/notes/new.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/notes/new.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/global.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/global.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.haml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/welcome/index.html.haml" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/welcome/index.html.haml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/notenote_development" beforeDir="false" afterPath="$PROJECT_DIR$/notenote_development" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -30,19 +29,21 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="Gemfile" value="2" />
-          <entry key="erb" value="6" />
-          <entry key="haml" value="14" />
-          <entry key="rb" value="10" />
-          <entry key="scss" value="5" />
+          <entry key="erb" value="7" />
+          <entry key="haml" value="18" />
+          <entry key="rb" value="11" />
+          <entry key="scss" value="13" />
+          <entry key="svg" value="3" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Haml" value="14" />
-          <entry key="RHTML" value="6" />
-          <entry key="Ruby" value="12" />
-          <entry key="SCSS" value="5" />
+          <entry key="Haml" value="18" />
+          <entry key="RHTML" value="7" />
+          <entry key="Ruby" value="13" />
+          <entry key="SCSS" value="13" />
+          <entry key="SVG" value="3" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -50,18 +51,18 @@
         <counts>
           <entry key="Gemfile" value="9" />
           <entry key="erb" value="82" />
-          <entry key="haml" value="1868" />
+          <entry key="haml" value="1908" />
           <entry key="rb" value="715" />
-          <entry key="scss" value="131" />
+          <entry key="scss" value="209" />
           <entry key="yml" value="30" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Haml" value="1868" />
+          <entry key="Haml" value="1908" />
           <entry key="RHTML" value="82" />
           <entry key="Ruby" value="724" />
-          <entry key="SCSS" value="131" />
+          <entry key="SCSS" value="209" />
           <entry key="YAML" value="30" />
         </counts>
       </usages-collector>
@@ -69,63 +70,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/notes/edit.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/notes/_form.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/views/notes/show.html.haml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <state relative-caret-position="34">
+              <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/notes/index.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="54" lean-forward="true" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.haml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/notes_controller.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -144,11 +95,6 @@
         <option value="$PROJECT_DIR$/app/models/note.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/normalize.css.scss" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/notes.css.scss" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss" />
-        <option value="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/global.css.scss" />
-        <option value="$PROJECT_DIR$/app/views/welcome/index.html.haml" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css.scss" />
         <option value="$PROJECT_DIR$/app/views/notes/show.html.haml" />
         <option value="$PROJECT_DIR$/app/views/notes/new.html.haml" />
@@ -158,6 +104,11 @@
         <option value="$PROJECT_DIR$/app/views/devise/sessions/new.html.erb" />
         <option value="$PROJECT_DIR$/app/views/notes/index.html.haml" />
         <option value="$PROJECT_DIR$/app/controllers/notes_controller.rb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/notes.css.scss" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/global.css.scss" />
+        <option value="$PROJECT_DIR$/app/views/layouts/application.html.haml" />
+        <option value="$PROJECT_DIR$/app/views/welcome/index.html.haml" />
       </list>
     </option>
   </component>
@@ -179,9 +130,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="168" />
-    <option name="y" value="55" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="165" />
+    <option name="y" value="57" />
     <option name="width" value="1439" />
     <option name="height" value="960" />
   </component>
@@ -218,6 +169,13 @@
               <item name="notenote" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="notenote" type="b2602c69:ProjectViewProjectNode" />
+              <item name="notenote" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="stylesheets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -238,22 +196,6 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="devise" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="notenote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="notenote" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="devise" type="462c0819:PsiDirectoryNode" />
-              <item name="registrations" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="notenote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="notenote" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="views" type="462c0819:PsiDirectoryNode" />
-              <item name="devise" type="462c0819:PsiDirectoryNode" />
-              <item name="sessions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="notenote" type="b2602c69:ProjectViewProjectNode" />
@@ -284,7 +226,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="Ruby.ViewRefParam.DefaultExtension" value="html.haml" />
-    <property name="SearchEverywhereHistoryKey" value="data&#9;FILE&#9;file://C:/Users/User/RubymineProjects/notenote/config/database.yml&#10;inde&#9;FILE&#9;file://C:/Users/User/RubymineProjects/notenote/app/views/welcome/index.html.erb" />
+    <property name="SearchEverywhereHistoryKey" value="logo&#9;null&#9;null&#10;data&#9;FILE&#9;file://C:/Users/User/RubymineProjects/notenote/config/database.yml&#10;inde&#9;FILE&#9;file://C:/Users/User/RubymineProjects/notenote/app/views/welcome/index.html.erb" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -399,15 +341,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545834822515</updated>
-      <workItem from="1545834824657" duration="17158000" />
+      <workItem from="1545834824657" duration="23891000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17158000" />
+    <option name="totallyTimeSpent" value="23891000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="135" y="44" width="1151" height="768" extended-state="1" />
+    <frame x="132" y="46" width="1151" height="768" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -419,8 +361,8 @@
       <window_info anchor="bottom" id="Terminal" weight="0.39274448" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.34858045" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3280757" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.38643533" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29545453" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -493,66 +435,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/normalize.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/global.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="65" column="23" lean-forward="true" selection-start-line="65" selection-start-column="23" selection-end-line="65" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/notes.css.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="552">
-          <caret line="53" column="1" selection-start-line="53" selection-start-column="1" selection-end-line="53" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/notes/new.html.haml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/notes/edit.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/devise/registrations/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
         </state>
       </provider>
     </entry>
@@ -566,17 +452,10 @@
     <entry file="file://$PROJECT_DIR$/app/views/devise/registrations/edit.html.erb">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/notes/_form.html.haml">
+    <entry file="file://$PROJECT_DIR$/app/controllers/notes_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/notes/show.html.haml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state relative-caret-position="170">
+          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
         </state>
       </provider>
     </entry>
@@ -587,17 +466,90 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.haml">
+    <entry file="file://$PROJECT_DIR$/app/views/notes/_form.html.haml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="24" column="10" lean-forward="true" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+        <state relative-caret-position="51">
+          <caret line="3" column="36" selection-start-line="3" selection-start-column="36" selection-end-line="3" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/notes_controller.rb">
+    <entry file="file://$PROJECT_DIR$/app/views/notes/edit.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/normalize.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/devise/registrations/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="28" lean-forward="true" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/application.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="25" lean-forward="true" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Ruby24-x64/lib/ruby/2.4.0/rss/maker/feed.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="314" column="20" selection-start-line="314" selection-start-column="20" selection-end-line="314" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/images/logo.svg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/welcome.css.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="36" lean-forward="true" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/welcome/index.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/global.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="5" lean-forward="true" selection-start-line="79" selection-start-column="5" selection-end-line="79" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/notes.css.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/notes/show.html.haml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
