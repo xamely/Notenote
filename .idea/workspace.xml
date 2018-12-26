@@ -3,10 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="b68c23b5-822c-40a6-bd51-7f2a43e7a91e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/app/controllers/notes_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/notes_controller.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/note.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/note.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/user.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/notenote_development" beforeDir="false" afterPath="$PROJECT_DIR$/notenote_development" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/notenote@Development__notenote.rcov" NAME="Development: notenote Coverage Results" MODIFIED="1545844004959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="notenote" />
+    <SUITE FILE_PATH="coverage/notenote@Development__notenote.rcov" NAME="Development: notenote Coverage Results" MODIFIED="1545845590019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="notenote" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-22924416">
@@ -30,7 +26,7 @@
           <entry key="Gemfile" value="2" />
           <entry key="erb" value="2" />
           <entry key="haml" value="5" />
-          <entry key="rb" value="8" />
+          <entry key="rb" value="9" />
           <entry key="yml" value="1" />
         </counts>
       </usages-collector>
@@ -38,7 +34,7 @@
         <counts>
           <entry key="Haml" value="5" />
           <entry key="RHTML" value="2" />
-          <entry key="Ruby" value="10" />
+          <entry key="Ruby" value="11" />
           <entry key="YAML" value="1" />
         </counts>
       </usages-collector>
@@ -47,7 +43,7 @@
           <entry key="Gemfile" value="9" />
           <entry key="erb" value="2" />
           <entry key="haml" value="532" />
-          <entry key="rb" value="608" />
+          <entry key="rb" value="631" />
           <entry key="yml" value="30" />
         </counts>
       </usages-collector>
@@ -55,7 +51,7 @@
         <counts>
           <entry key="Haml" value="532" />
           <entry key="RHTML" value="2" />
-          <entry key="Ruby" value="617" />
+          <entry key="Ruby" value="640" />
           <entry key="YAML" value="30" />
         </counts>
       </usages-collector>
@@ -63,11 +59,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/controllers/notes_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+            <state relative-caret-position="51">
+              <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -133,7 +138,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="552" />
     <option name="y" value="80" />
     <option name="width" value="1439" />
@@ -309,23 +314,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545834822515</updated>
-      <workItem from="1545834824657" duration="8615000" />
+      <workItem from="1545834824657" duration="8883000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8615000" />
+    <option name="totallyTimeSpent" value="8883000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="559" y="102" width="1151" height="768" extended-state="0" />
+    <frame x="442" y="64" width="1151" height="768" extended-state="0" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.30705774" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30705774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.39274448" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.39274448" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3494318" />
@@ -351,13 +356,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -453,8 +451,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/notes_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="36" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
+        <state relative-caret-position="51">
+          <caret line="3" column="45" selection-start-line="3" selection-start-column="45" selection-end-line="3" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
